@@ -22,4 +22,3 @@ to clone it every time you start a new React.js project
 ```
 
 Feel free to modify this repo to improve it
-
