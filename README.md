@@ -17,6 +17,7 @@ to clone it every time you start a new React.js project
 ```
   git clone https://github.com/josorioromero/webpackReactTemplate.git
   npm install
+  webpack
   npm start
   have fun
 ```
